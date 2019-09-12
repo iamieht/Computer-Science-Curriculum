@@ -12,17 +12,16 @@ minMonthlyPayment = round((monthlyPaymentUpperBound + monthlyPaymentLowerBound) 
 updatedBalance = balance
 epsilon = 0.1
 
-print(minMonthlyPayment)
 
 while True:
     for month in range(1,13):
          monthlyUnpaidBalance = round(updatedBalance - minMonthlyPayment, 2)
          updatedBalance = round(monthlyUnpaidBalance + (monthlyInterestRate * monthlyUnpaidBalance), 2)
 
-    if updatedBalance > 0 or updatedBalance - monthlyUnpaidBalance > epsilon:
+    if updatedBalance > 0 and updatedBalance - monthlyUnpaidBalance > epsilon:
         monthlyPaymentLowerBound = minMonthlyPayment
         updatedBalance = balance
-    elif updatedBalance < 0 or updatedBalance < epsilon:
+    elif updatedBalance < 0 and updatedBalance - monthlyUnpaidBalance < epsilon:
         monthlyPaymentUpperBound = minMonthlyPayment
         updatedBalance = balance
     else:
