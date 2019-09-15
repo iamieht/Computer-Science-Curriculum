@@ -50,7 +50,11 @@ def isWordGuessed(secretWord, lettersGuessed):
     returns: boolean, True if all the letters of secretWord are in lettersGuessed;
       False otherwise
     '''
-    # FILL IN YOUR CODE HERE...
+    for letter in secretWord:
+      if letter not in lettersGuessed:
+        return False
+    
+    return True
 
 
 
@@ -100,7 +104,11 @@ def hangman(secretWord):
 
 
 
-
+# Test cases:
+# Test 1 isWordGuessed:
+secretWord = 'apple'
+lettersGuessed = ['e', 'i', 'k', 'p', 'r', 's']
+print(isWordGuessed(secretWord, lettersGuessed))
 # When you've completed your hangman function, uncomment these two lines
 # and run this file to test! (hint: you might want to pick your own
 # secretWord while you're testing)
