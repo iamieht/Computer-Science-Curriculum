@@ -7,7 +7,7 @@
 # but you will have to know how to use the functions
 # (so be sure to read the docstrings!)
 
-import random
+import random, string
 
 WORDLIST_FILENAME = "words.txt"
 
@@ -83,7 +83,14 @@ def getAvailableLetters(lettersGuessed):
     returns: string, comprised of letters that represents what letters have not
       yet been guessed.
     '''
-    # FILL IN YOUR CODE HERE...
+    availableLetters = ''
+
+    for letter in string.ascii_lowercase:
+      if letter not in lettersGuessed:
+        availableLetters += letter
+    
+    return availableLetters
+
     
 
 def hangman(secretWord):
@@ -113,12 +120,15 @@ def hangman(secretWord):
 
 
 # Test cases:
+
 # Test 1 isWordGuessed:
 secretWord = 'apple'
 lettersGuessed = ['e', 'i', 'k', 'p', 'r', 's']
 #print(isWordGuessed(secretWord, lettersGuessed))
 # Test 2 getGuessedWord
-print(getGuessedWord(secretWord, lettersGuessed))
+#print(getGuessedWord(secretWord, lettersGuessed))
+# Test 3 - getAvailableLetters
+print(getAvailableLetters(lettersGuessed)) 
 
 # When you've completed your hangman function, uncomment these two lines
 # and run this file to test! (hint: you might want to pick your own
