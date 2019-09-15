@@ -65,7 +65,15 @@ def getGuessedWord(secretWord, lettersGuessed):
     returns: string, comprised of letters and underscores that represents
       what letters in secretWord have been guessed so far.
     '''
-    # FILL IN YOUR CODE HERE...
+    guessedWord = ''
+
+    for letter in secretWord:
+      if letter in lettersGuessed:
+        guessedWord += letter
+      else:
+        guessedWord += ' _ '
+    
+    return guessedWord
 
 
 
@@ -108,7 +116,10 @@ def hangman(secretWord):
 # Test 1 isWordGuessed:
 secretWord = 'apple'
 lettersGuessed = ['e', 'i', 'k', 'p', 'r', 's']
-print(isWordGuessed(secretWord, lettersGuessed))
+#print(isWordGuessed(secretWord, lettersGuessed))
+# Test 2 getGuessedWord
+print(getGuessedWord(secretWord, lettersGuessed))
+
 # When you've completed your hangman function, uncomment these two lines
 # and run this file to test! (hint: you might want to pick your own
 # secretWord while you're testing)
