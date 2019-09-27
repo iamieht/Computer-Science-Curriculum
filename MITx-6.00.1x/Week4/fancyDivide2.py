@@ -12,6 +12,6 @@ def fancy_divide(numbers, index):
     finally:
         print("0")
 
-print(fancy_divide([0, 2, 4], 1))
-print(fancy_divide([0, 2, 4], 4))
-print(fancy_divide([0, 2, 4], 0))
+#fancy_divide([0, 2, 4], 1)
+#fancy_divide([0, 2, 4], 4)
+fancy_divide([0, 2, 4], 0)
