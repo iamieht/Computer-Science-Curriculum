@@ -201,7 +201,13 @@ def calculateHandlen(hand):
     hand: dictionary (string-> int)
     returns: integer
     """
-    # TO DO... <-- Remove this comment when you code this function
+    numberOfLetters = 0
+
+    for v in hand.values():
+        numberOfLetters += v
+    
+    return numberOfLetters
+    
 
 
 
