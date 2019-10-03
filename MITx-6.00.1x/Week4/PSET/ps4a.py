@@ -264,8 +264,10 @@ def playHand(hand, wordList, n):
     # Game is over (user entered a '.' or ran out of letters), so tell user the total score
     if calculateHandlen(hand) == 0:
         print("Run out of letters. Total score:", total_score, "points.")
+        print()
     else:
         print("Goodbye! Total score:", total_score, "points")
+        print()
 
 
 #
@@ -284,8 +286,25 @@ def playGame(wordList):
  
     2) When done playing the hand, repeat from step 1    
     """
-    # TO DO ... <-- Remove this comment when you code this function
-    print("playGame not yet implemented.") # <-- Remove this line when you code the function
+    hand = 0
+    while True:
+        user_input = input("Enter n to deal a new hand, r to replay the last hand, or e to end game:")
+
+        if user_input == 'n':
+            hand = dealHand(HAND_SIZE)
+            playHand(hand, wordList, HAND_SIZE)
+        elif user_input == 'r':
+            if hand == 0:
+                print("You have not played a hand yet. Please play a new hand first!")
+                print()
+            else:
+                playHand(hand, wordList, HAND_SIZE)
+        elif user_input == 'e':
+            break
+        else:
+            print("Invalid command.")
+            print()
+
    
 
 
@@ -295,7 +314,7 @@ def playGame(wordList):
 #
 if __name__ == '__main__':
     wordList = loadWords()
-#    playGame(wordList)
+    playGame(wordList)
 
 #Case #1
 #playHand({'h':1, 'i':1, 'c':1, 'z':1, 'm':2, 'a':1}, wordList, 7)
@@ -304,5 +323,5 @@ if __name__ == '__main__':
 #playHand({'w':1, 's':1, 't':2, 'a':1, 'o':1, 'f':1}, wordList, 7)
 
 #Case #3
-playHand({'n':1, 'e':1, 't':1, 'a':1, 'r':1, 'i':2}, wordList, 7)
+#playHand({'n':1, 'e':1, 't':1, 'a':1, 'r':1, 'i':2}, wordList, 7)
 
