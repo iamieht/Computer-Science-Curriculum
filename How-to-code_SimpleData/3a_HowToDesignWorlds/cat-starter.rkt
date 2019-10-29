@@ -1999,7 +1999,7 @@
 0 0 -1 -1 2 1 #"\0"
 0 -1 1 #"\0"
 1.0 0 -1 -1 -1 -1 -1 -1 0 0 0 0 0 0 0.0 0.0 0.0 1.0 1.0 1.0 178 111 71 0
-0 0 -1 -1           0 284 0 4 3 85
+0 0 -1 -1           0 283 0 4 3 85
 (
  #";; The first three lines of this file were inserted by DrRacket. The"
  #"y record metadata"
@@ -4005,9 +4005,7 @@
 0 0 24 29 1 #"\n"
 0 0 17 3 2 #";("
 0 0 17 3 6 #"define"
-0 0 17 3 2 #" ("
-0 0 17 3 11 #"advance-cat"
-0 0 17 3 12 #" c) 0) ;stub"
+0 0 17 3 25 #" (advance-cat c) 0) ;stub"
 0 0 24 29 1 #"\n"
 0 0 24 29 1 #"\n"
 0 0 17 3 24 #";<use template from Cat>"
@@ -4058,7 +4056,8 @@
 0 0 17 3 30 #";(define (render c) MTS) ;stub"
 0 0 24 29 1 #"\n"
 0 0 24 29 1 #"\n"
-0 0 17 3 24 #";<use template from Cat>"
+0 0 17 3 23 #";<use template from Cat"
+0 0 17 3 2 #" >"
 0 0 24 29 1 #"\n"
 0 0 24 3 1 #"("
 0 0 15 3 6 #"define"
