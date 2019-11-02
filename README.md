@@ -97,11 +97,15 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x) | Pending | TBD | TBD | TBD
 [Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0) | Pending | TBD | TBD | TBD
 
-
 ## Advanced theory
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
+[Introduction to Logic](https://www.coursera.org/learn/logic-introduction) | Pending | TBD | TBD | TBD
+[Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about) | Pending | TBD | TBD | TBD
+[Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x) | Pending | TBD | TBD | TBD
+[Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis) | Pending | TBD | TBD | TBD
+[Game Theory](https://www.coursera.org/learn/game-theory-1) | Pending | TBD | TBD | TBD
 
 ## Advanced applications
 
