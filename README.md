@@ -25,11 +25,27 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
+[College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) | Pending | TDB | TBD | TBD
+[Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) | Pending | TBD | TBD | TBD
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Pending | TBD | TBD | TBD
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) | Pending | TBD | TBD | TBD
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | Pending | TBD | TBD | TBD
+[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | Pending | TBD | TBD | TBD
+[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | Pending | TBD | TBD | TBD
+[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | Pending | TBD | TBD | TBD
+[Combinatorics and Probability](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics) | Pending | TBD | TBD | TBD
+[Introduction to Graph Theory](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics) | Pending | TBD | TBD | TBD
+[Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics) | Pending | TBD | TBD | TBD
+[Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101) | Pending | TBD | TBD | TBD
 
 ## Core Systems
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | Pending | TBD | TBD | TBD
+[Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | Pending | TBD | TBD | TBD
+[Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | Pending | TBD | TBD | TBD
+[Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923) | Pending | TBD | TBD | TBD
 
 ## Core Theory
 
