@@ -51,6 +51,9 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
+[Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Pending | TBD | TBD | TBD
+[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | Pending | TBD | TBD | TBD
+[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Pending | TBD | TBD |  TBD
 
 ## Core Application
 
@@ -90,5 +93,6 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 ## Resources
 
 * [Open Source Society University](https://github.com/ossu/computer-science)
+* [Open Source CS - ForrestKnight](https://github.com/ForrestKnight/open-source-cs)
 * [Coursera](https://www.coursera.org/)
 * [edX](https://www.edx.org/)
