@@ -107,15 +107,25 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis) | Pending | TBD | TBD | TBD
 [Game Theory](https://www.coursera.org/learn/game-theory-1) | Pending | TBD | TBD | TBD
 
-## Advanced applications
+## Advanced applications & Specializations
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
+[Robotics (Specialization)](https://www.coursera.org/specializations/robotics) | TBD
+[Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | TBD
+[Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | TBD
+[Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | TBD
+[Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | TBD
+[Full Stack Web Development (Specialization)](https://www.coursera.org/specializations/full-stack) | TBD
+[Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | TBD
+[Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | TBD
+[Mastering Software Development in R Specialization](https://www.coursera.org/specializations/r) | TBD
+[Artificial Intelligence Engineer Nanodegree](https://www.udacity.com/ai) | TBD
+[Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009) | TBD
+[Cybersecurity MicroMasters](https://www.edx.org/micromasters/ritx-cybersecurity) | TBD
+[Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) | TBD
 
-## Specializations
 
-| Course | Status | Start Date | Finish Date | Repository
--------- | ------ | ---------- | ----------- | ----------
 
 ## Resources
 
