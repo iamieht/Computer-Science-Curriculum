@@ -59,6 +59,11 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
+[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | Pending | TBD | TBD | TBD
+[Machine Learning](https://www.coursera.org/learn/machine-learning) | Pending | TBD | TBD | TBD
+[Database Management Essentials](https://www.coursera.org/learn/database-management?specialization=data-warehousing) | Pending | TBD | TBD | TBD
+[Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | Pending | TBD | TBD | TBD
+[Cryptography I](https://www.coursera.org/course/crypto) | Pending | TBD | TBD | TBD
 
 ## Advanced programming
 
