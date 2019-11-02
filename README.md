@@ -6,7 +6,7 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 
 | Course | Status | Finished | Repository
 -------- | ------ | -------- | ----------
-[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | Completed | - [ ] | [MITx-6.00.1x](https://github.com/iamieht/MITx-6.00.1x)
+[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | Completed |- [x] Finished | [MITx-6.00.1x](https://github.com/iamieht/MITx-6.00.1x)
 Introduction to Computational Thinking and Data Science | In Progress | -[ ] | [MITx-6.00.2x](https://github.com/iamieht/MITx-6.00.2x)
 
 ## Programming
