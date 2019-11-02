@@ -69,6 +69,13 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
+[Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about) | Pending | TBD | TBD | TBD
+[Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Pending | TBD | TBD | TBD
+[Software Testing](https://www.udacity.com/course/software-testing--cs258) | Pending | TBD | TBD | TBD
+[LAFF - On Programming for Correctness](https://www.edx.org/course/laff-on-programming-for-correctness) | Pending | TBD | TBD | TBD
+[Introduction to Parallel Programming](https://classroom.udacity.com/courses/cs344) | Pending | TDB | TBD | TBD
+[Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) | Pending | TBD | TBD | TBD
+
 
 ## Advanced math
 
