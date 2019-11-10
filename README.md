@@ -17,6 +17,12 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | Pending | TBD | TBD |TBC
 [Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x) | Pending |TBD | TBD | TBC
 [Software Construction - Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x) | Pending | TBD | TBD |TBC
+[An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1?specialization=computer-fundamentals) | Pending | --- | --- | ---
+[An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2?specialization=computer-fundamentals) | Pending | --- | --- | ---
+[Principles of Computing (Part 1)](https://www.coursera.org/learn/principles-of-computing-1?specialization=computer-fundamentals) | Pending | --- | --- | ---
+[Principles of Computing (Part 2)](https://www.coursera.org/learn/principles-of-computing-2?specialization=computer-fundamentals) | Pending | --- | --- | ---
+[Algorithmic Thinking (Part 1)](https://www.coursera.org/learn/algorithmic-thinking-1) | Pending | --- | --- | ---
+[Algorithmic Thinking (Part 2)](https://www.coursera.org/learn/algorithmic-thinking-2) | Pending | --- | --- | ---
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | Pending | TBD | TBD |TBC
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | Pending | TBD | TBD |TBC
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | Pending | TBD | TBD |TBC
@@ -76,7 +82,6 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Introduction to Parallel Programming](https://classroom.udacity.com/courses/cs344) | Pending | TDB | TBD | TBD
 [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) | Pending | TBD | TBD | TBD
 
-
 ## Advanced math
 
 | Course | Status | Start Date | Finish Date | Repository
@@ -124,8 +129,6 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009) | TBD
 [Cybersecurity MicroMasters](https://www.edx.org/micromasters/ritx-cybersecurity) | TBD
 [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) | TBD
-
-
 
 ## Resources
 
