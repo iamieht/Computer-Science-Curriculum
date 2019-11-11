@@ -13,11 +13,11 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
-[How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | In Progress | Oct. 16th 2019 |---|[software development UBC](https://github.com/iamieht/software_development_ubc/tree/master/How-to-code_Simple_Data)
+[How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | In Progress | Oct. 16th 2019 |---|[Software Development UBC](https://github.com/iamieht/software_development_ubc/tree/master/How-to-code_Simple_Data)
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | Pending | --- | --- |---
 [Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x) | Pending |--- | --- | ---
 [Software Construction - Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x) | Pending | --- | --- |---
-[An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1?specialization=computer-fundamentals) | Pending | --- | --- | ---
+[An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1?specialization=computer-fundamentals) | In Progress | Nov. 11th 2019 | --- | [Fundamentals of Computing](https://github.com/iamieht/fundamentals_of_computing/tree/master/Introduction_to_interactive_programming_in_Python_PartI)
 [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2?specialization=computer-fundamentals) | Pending | --- | --- | ---
 [Principles of Computing (Part 1)](https://www.coursera.org/learn/principles-of-computing-1?specialization=computer-fundamentals) | Pending | --- | --- | ---
 [Principles of Computing (Part 2)](https://www.coursera.org/learn/principles-of-computing-2?specialization=computer-fundamentals) | Pending | --- | --- | ---
