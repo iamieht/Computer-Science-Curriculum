@@ -17,7 +17,7 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | Pending | --- | --- |---
 [Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x) | Pending |--- | --- | ---
 [Software Construction - Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x) | Pending | --- | --- |---
-[An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1?specialization=computer-fundamentals) | In Progress | Nov. 11th 2019 | --- | [Fundamentals of Computing](https://github.com/iamieht/fundamentals_of_computing/tree/master/Introduction_to_interactive_programming_in_Python_PartI)
+[An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1?specialization=computer-fundamentals) | In Progress | Nov. 11th 2019 | Nov. 20th 2019 | [Fundamentals of Computing](https://github.com/iamieht/fundamentals_of_computing/tree/master/Introduction_to_interactive_programming_in_Python_PartI)
 [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2?specialization=computer-fundamentals) | Pending | --- | --- | ---
 [Principles of Computing (Part 1)](https://www.coursera.org/learn/principles-of-computing-1?specialization=computer-fundamentals) | Pending | --- | --- | ---
 [Principles of Computing (Part 2)](https://www.coursera.org/learn/principles-of-computing-2?specialization=computer-fundamentals) | Pending | --- | --- | ---
