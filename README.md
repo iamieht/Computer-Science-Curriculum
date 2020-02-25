@@ -2,6 +2,13 @@
 
 This Computer Science Curriculum is a guide, based on a few [resources](#resources) found on the web, that I am using to learn Computer Science on my own and to log my learning progress.
 
+## Introduction to Programming
+
+| Course | Status | Start Date | Finish Date | Repository
+-------- | ------ | ---------- | ----------- | ----------
+[Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) | --- | --- | --- | ---
+
+
 ## Introduction to Computer Science
 
 | Course | Status | Start Date | Finish Date | Repository
