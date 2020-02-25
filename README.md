@@ -14,23 +14,17 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | Completed | Aug. 28th 2019 | Nov. 1st 2019 |[MITx-6.00.1x](https://github.com/iamieht/MITx-6.00.1x)
-[Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) | --- | --- | --- | ---
+[Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) | --- | --- | --- | [Fundamentals of Computing](https://github.com/iamieht/fundamentals_of_computing)
 
 
 ## Core Programming
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
-[How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | In Progress | Oct. 16th 2019 |---|[Software Development UBC](https://github.com/iamieht/software_development_ubc/tree/master/How-to-code_Simple_Data)
+[How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | --- | --- |---|[Software Development UBC](https://github.com/iamieht/software_development_ubc/tree/master/How-to-code_Simple_Data)
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | Pending | --- | --- |---
 [Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x) | Pending |--- | --- | ---
 [Software Construction - Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x) | Pending | --- | --- |---
-[An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1?specialization=computer-fundamentals) | Completed | Nov. 11th 2019 | Nov. 20th 2019 | [Fundamentals of Computing](https://github.com/iamieht/fundamentals_of_computing/tree/master/Introduction_to_interactive_programming_in_Python_PartI)
-[An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2?specialization=computer-fundamentals) | Completed | Nov. 20th 2019 | Nov. 29th 2019 | [Fundamentals of Computing](https://github.com/iamieht/fundamentals_of_computing/tree/master/Introduction_to_interactive_programming_in_Python_PartII)
-[Principles of Computing (Part 1)](https://www.coursera.org/learn/principles-of-computing-1?specialization=computer-fundamentals) | Pending | --- | --- | ---
-[Principles of Computing (Part 2)](https://www.coursera.org/learn/principles-of-computing-2?specialization=computer-fundamentals) | Pending | --- | --- | ---
-[Algorithmic Thinking (Part 1)](https://www.coursera.org/learn/algorithmic-thinking-1) | Pending | --- | --- | ---
-[Algorithmic Thinking (Part 2)](https://www.coursera.org/learn/algorithmic-thinking-2) | Pending | --- | --- | ---
 [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/6-00-2x-introduction-to-computational-thinking-and-data-science-3) | --- | --- | --- | ---
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | Pending | --- | --- |---
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | Pending | --- | --- |---
