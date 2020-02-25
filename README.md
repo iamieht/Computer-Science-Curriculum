@@ -14,7 +14,8 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | Completed | Aug. 28th 2019 | Nov. 1st 2019 |[MITx-6.00.1x](https://github.com/iamieht/MITx-6.00.1x)
-[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/6-00-2x-introduction-to-computational-thinking-and-data-science-3) | In Progress | Oct. 16th 2019 | Dec. 18th 2019 | [MITx-6.00.2x](https://github.com/iamieht/MITx-6.00.2x)
+[Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) | --- | --- | --- | ---
+
 
 ## Core Programming
 
@@ -30,6 +31,7 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Principles of Computing (Part 2)](https://www.coursera.org/learn/principles-of-computing-2?specialization=computer-fundamentals) | Pending | --- | --- | ---
 [Algorithmic Thinking (Part 1)](https://www.coursera.org/learn/algorithmic-thinking-1) | Pending | --- | --- | ---
 [Algorithmic Thinking (Part 2)](https://www.coursera.org/learn/algorithmic-thinking-2) | Pending | --- | --- | ---
+[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/6-00-2x-introduction-to-computational-thinking-and-data-science-3) | --- | --- | --- | ---
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | Pending | --- | --- |---
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | Pending | --- | --- |---
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | Pending | --- | --- |---
