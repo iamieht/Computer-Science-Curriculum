@@ -61,16 +61,15 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
 [Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Pending | --- | --- | ---
-[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | Pending | --- | --- | ---
-[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Pending | --- | --- |  ---
+[Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | --- | --- | --- | ---
 
-## Core Application
+## Core Applications
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
+[Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | --- | --- | --- | ---
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | Pending | --- | --- | ---
 [Machine Learning](https://www.coursera.org/learn/machine-learning) | Pending | --- | --- | ---
-[Database Management Essentials](https://www.coursera.org/learn/database-management?specialization=data-warehousing) | Pending | --- | --- | ---
 [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | Pending | --- | --- | ---
 [Cryptography I](https://www.coursera.org/course/crypto) | Pending | --- | --- | ---
 
