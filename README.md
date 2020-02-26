@@ -6,7 +6,7 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
-[Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) | --- | --- | --- | ---
+[Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) | In Progress | Feb. 25th 2020 | --- | [Intro to Scripting in Python Specialization](https://github.com/iamieht/intro-scripting-in-python-specialization)
 
 
 ## Introduction to Computer Science
