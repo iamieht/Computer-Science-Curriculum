@@ -53,6 +53,7 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
 [Pre-Calculus](https://www.futurelearn.com/courses/precalculus) | --- | --- | ---
+[Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) | Pending | --- | --- | ---
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | Pending | --- | --- | ---
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | Pending | --- | --- | ---
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | Pending | --- | --- | ---
@@ -71,20 +72,25 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | --- | --- | ---
 [Introduction to Logic](https://www.coursera.org/learn/logic-introduction) | --- | --- | ---
 
+### Probability
 
-## Core Math
+| Course | Status | Start Date | Finish Date | Repository
+-------- | ------ | ---------- | ----------- | ----------
+[Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
+[Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | --- | --- | ---
+
+# Core Math
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
 [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) | Pending | --- | --- | ---
-[Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) | Pending | --- | --- | ---
-
-
 [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | Pending | --- | --- | ---
 [Combinatorics and Probability](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics) | Pending | --- | --- | ---
 [Introduction to Graph Theory](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics) | Pending | --- | --- | ---
 [Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography?specialization=discrete-mathematics) | Pending | --- | --- | ---
 [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101) | Pending | --- | --- | ---
+[Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) | --- | --- | ---
+[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | --- | --- | ---
 
 ## Core Systems
 
