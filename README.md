@@ -2,20 +2,36 @@
 
 This Computer Science Curriculum is a guide, based on a few [resources](#resources) found on the web, that I am using to learn Computer Science on my own and to log my learning progress.
 
+# Prerequisites
+
+## High School Math
+| Course | Status | Start Date | Finish Date | 
+-------- | ------ | ---------- | ----------- |
+ [High School Math Review](https://www.khanacademy.org/math/high-school-math) | --- | --- | ---
+
+# Intro to Computer Science
+
 ## Introduction to Programming
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
 [Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) | In Progress | Feb. 25th 2020 | --- | [Intro to Scripting in Python Specialization](https://github.com/iamieht/intro-scripting-in-python-specialization)
-
+[Python for Everyone](https://www.coursera.org/specializations/python) | --- | --- | --- | ---
+[Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) | --- | --- | --- | [Fundamentals of Computing](https://github.com/iamieht/fundamentals_of_computing)
 
 ## Introduction to Computer Science
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | Completed | Aug. 28th 2019 | Nov. 1st 2019 |[MITx-6.00.1x](https://github.com/iamieht/MITx-6.00.1x)
-[Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) | --- | --- | --- | [Fundamentals of Computing](https://github.com/iamieht/fundamentals_of_computing)
 
+## Introduction to CS Tools
+
+| Course | Status | Start Date | Finish Date | Repository
+-------- | ------ | ---------- | ----------- | ----------
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | --- | --- | --- 
+
+# Core Computer Science
 
 ## Core Programming
 
@@ -23,12 +39,38 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 -------- | ------ | ---------- | ----------- | ----------
 [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | --- | --- |---|[Software Development UBC](https://github.com/iamieht/software_development_ubc/tree/master/How-to-code_Simple_Data)
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | Pending | --- | --- |---
-[Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x) | Pending |--- | --- | ---
-[Software Construction - Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x) | Pending | --- | --- |---
-[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/6-00-2x-introduction-to-computational-thinking-and-data-science-3) | --- | --- | --- | ---
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | Pending | --- | --- |---
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | Pending | --- | --- |---
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | Pending | --- | --- |---
+[Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x) | Pending |--- | --- | ---
+[Software Construction - Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x) | Pending | --- | --- |---
+[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/6-00-2x-introduction-to-computational-thinking-and-data-science-3) | --- | --- | --- | ---
+
+## Math Electives
+
+### Calculus
+
+| Course | Status | Start Date | Finish Date | Repository
+-------- | ------ | ---------- | ----------- | ----------
+[Pre-Calculus](https://www.futurelearn.com/courses/precalculus) | --- | --- | ---
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | Pending | --- | --- | ---
+[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | Pending | --- | --- | ---
+[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | Pending | --- | --- | ---
+
+### Linear Algebra
+
+| Course | Status | Start Date | Finish Date | Repository
+-------- | ------ | ---------- | ----------- | ----------
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Pending | --- | --- | ---
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) | Pending | --- | --- | ---
+
+### Logic
+
+| Course | Status | Start Date | Finish Date | Repository
+-------- | ------ | ---------- | ----------- | ----------
+[Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | --- | --- | ---
+[Introduction to Logic](https://www.coursera.org/learn/logic-introduction) | --- | --- | ---
+
 
 ## Core Math
 
@@ -36,11 +78,8 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 -------- | ------ | ---------- | ----------- | ----------
 [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) | Pending | --- | --- | ---
 [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) | Pending | --- | --- | ---
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Pending | --- | --- | ---
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) | Pending | --- | --- | ---
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | Pending | --- | --- | ---
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | Pending | --- | --- | ---
-[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | Pending | --- | --- | ---
+
+
 [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | Pending | --- | --- | ---
 [Combinatorics and Probability](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics) | Pending | --- | --- | ---
 [Introduction to Graph Theory](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics) | Pending | --- | --- | ---
