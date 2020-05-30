@@ -10,7 +10,7 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
  [How to Learn Math: For Students](https://www.edx.org/course/how-to-learn-math-for-students-2) | --- | --- | ---
  [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | --- | --- | ---
 
-# Level 1 (Beginner)
+# Introductory Courses
 
 ## Introduction to Programming & Computer Science
 
@@ -54,7 +54,7 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) | --- | --- | ---
 
 
-# Level 2 (Intermediate)
+# Intermediate Courses
 
 ## Programming
 
@@ -129,7 +129,7 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | Pending | --- | --- | ---
 [Cryptography I](https://www.coursera.org/course/crypto) | Pending | --- | --- | ---
 
-# Level 3 (Advanced)
+# Advanced Courses
 
 ## Math
 
@@ -192,7 +192,7 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis) | Pending | --- | --- | ---
 [Game Theory](https://www.coursera.org/learn/game-theory-1) | Pending | --- | --- | ---
 
-# Level 4 (Specializations)
+# Specializations
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
