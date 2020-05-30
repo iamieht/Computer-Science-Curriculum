@@ -126,21 +126,27 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
+[Relational Database Systems](https://www.coursera.org/learn/relational-database) | --- | --- | ---
 [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | --- | --- | --- | ---
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | Pending | --- | --- | ---
 [Machine Learning](https://www.coursera.org/learn/machine-learning) | Pending | --- | --- | ---
 [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | Pending | --- | --- | ---
 [Cryptography I](https://www.coursera.org/course/crypto) | Pending | --- | --- | ---
 
+# Advvanced Computer Science
+
 ## Advanced programming
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
+[Introduction to Parallel Programming](https://classroom.udacity.com/courses/cs344) | Pending | --- | --- | ---
 [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about) | Pending | --- | --- | ---
+[Compilers](https://www.edx.org/course/compilers) | --- | --- | ---
+[Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/) | --- | --- | ---
+[Learn Prolog Now!](http://lpn.swi-prolog.org/lpnpage.php?pageid=top) | --- | --- | ---
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259) | Pending | --- | --- | ---
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | Pending | --- | --- | ---
 [LAFF - On Programming for Correctness](https://www.edx.org/course/laff-on-programming-for-correctness) | Pending | --- | --- | ---
-[Introduction to Parallel Programming](https://classroom.udacity.com/courses/cs344) | Pending | --- | --- | ---
 [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) | Pending | --- | --- | ---
 
 ## Advanced systems
