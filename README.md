@@ -52,7 +52,10 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
-[Pre-Calculus](https://www.futurelearn.com/courses/precalculus) | --- | --- | ---
+[Algebra I](https://www.khanacademy.org/math/algebra) | --- | --- | ---
+[Algebra II](https://www.khanacademy.org/math/algebra2) | --- | --- | ---
+[Trigonometry](https://www.khanacademy.org/math/trigonometry) | --- | --- | ---
+[Precalculus](https://www.futurelearn.com/courses/precalculus) | --- | --- | ---
 [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) | Pending | --- | --- | ---
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | Pending | --- | --- | ---
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | Pending | --- | --- | ---
@@ -166,6 +169,7 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
+[Theory of Computation ](http://aduni.org/courses/theory/index.php?view=cw)[(Lectures)](https://www.youtube.com/playlist?list=PLTke5lHMAdSNmi57H0DOTzClHPK6UwSTN) | --- | --- | ---
 [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about) | Pending | --- | --- | ---
 [Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x) | Pending | --- | --- | ---
 [Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis) | Pending | --- | --- | ---
