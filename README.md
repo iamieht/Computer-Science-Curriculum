@@ -4,26 +4,35 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 
 # Prerequisites
 
-## High School Math
 | Course | Status | Start Date | Finish Date | 
 -------- | ------ | ---------- | ----------- |
  [High School Math Review](https://www.khanacademy.org/math/high-school-math) | --- | --- | ---
+ [How to Learn Math: For Students](https://www.edx.org/course/how-to-learn-math-for-students-2) | --- | --- | ---
+ [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | --- | --- | ---
 
-# Intro to Computer Science
+# Level 1 (Beginner)
 
-## Introduction to Programming
-
-| Course | Status | Start Date | Finish Date | Repository
--------- | ------ | ---------- | ----------- | ----------
-[Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) | In Progress | Feb. 25th 2020 | --- | [Intro to Scripting in Python Specialization](https://github.com/iamieht/intro-scripting-in-python-specialization)
-[Python for Everyone](https://www.coursera.org/specializations/python) | --- | --- | --- | ---
-[Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) | --- | --- | --- | [Fundamentals of Computing](https://github.com/iamieht/fundamentals_of_computing)
-
-## Introduction to Computer Science
+## Introduction to Programming & Computer Science
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | Completed | Aug. 28th 2019 | Nov. 1st 2019 |[MITx-6.00.1x](https://github.com/iamieht/MITx-6.00.1x)
+[Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) | In Progress | Feb. 25th 2020 | --- | [Intro to Scripting in Python Specialization](https://github.com/iamieht/intro-scripting-in-python-specialization)
+[Python for Everyone](https://www.coursera.org/specializations/python) | --- | --- | --- | ---
+[Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) | --- | --- | --- | [Fundamentals of Computing](https://github.com/iamieht/fundamentals_of_computing)
+
+## Math Preparation
+
+| Course | Status | Start Date | Finish Date | Repository
+-------- | ------ | ---------- | ----------- | ----------
+[Algebra I](https://www.khanacademy.org/math/algebra) | --- | --- | ---
+[Algebra II](https://www.khanacademy.org/math/algebra2) | --- | --- | ---
+[Trigonometry](https://www.khanacademy.org/math/trigonometry) | --- | --- | ---
+[Precalculus](https://www.khanacademy.org/math/precalculus) | --- | --- | ---
+[Precalculus](https://www.futurelearn.com/courses/precalculus) | --- | --- | ---
+[Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) | Pending | --- | --- | ---
+[Calculus I](https://www.khanacademy.org/math/calculus-1) | --- | --- | ---
+[Calculus II](https://www.khanacademy.org/math/calculus-2) | --- | --- | ---
 
 ## Introduction to CS Tools
 
@@ -31,14 +40,26 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 -------- | ------ | ---------- | ----------- | ----------
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | --- | --- | --- 
 
-# Core Computer Science
-
-## Core Programming
+## Programming
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
 [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | --- | --- |---|[Software Development UBC](https://github.com/iamieht/software_development_ubc/tree/master/How-to-code_Simple_Data)
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | Pending | --- | --- |---
+
+## Theory
+
+| Course | Status | Start Date | Finish Date | Repository
+-------- | ------ | ---------- | ----------- | ----------
+[Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) | --- | --- | ---
+
+
+# Level 2 (Intermediate)
+
+## Programming
+
+| Course | Status | Start Date | Finish Date | Repository
+-------- | ------ | ---------- | ----------- | ----------
 [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | Pending | --- | --- |---
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | Pending | --- | --- |---
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | Pending | --- | --- |---
@@ -46,17 +67,12 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Software Construction - Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x) | Pending | --- | --- |---
 [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/6-00-2x-introduction-to-computational-thinking-and-data-science-3) | --- | --- | --- | ---
 
-## Math Electives
+## Math
 
 ### Calculus
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
-[Algebra I](https://www.khanacademy.org/math/algebra) | --- | --- | ---
-[Algebra II](https://www.khanacademy.org/math/algebra2) | --- | --- | ---
-[Trigonometry](https://www.khanacademy.org/math/trigonometry) | --- | --- | ---
-[Precalculus](https://www.futurelearn.com/courses/precalculus) | --- | --- | ---
-[Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) | Pending | --- | --- | ---
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | Pending | --- | --- | ---
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | Pending | --- | --- | ---
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | Pending | --- | --- | ---
@@ -82,7 +98,40 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
 [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | --- | --- | ---
 
-## Core Math
+## Systems
+
+| Course | Status | Start Date | Finish Date | Repository
+-------- | ------ | ---------- | ----------- | ----------
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | Pending | --- | --- | ---
+[Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | Pending | --- | --- | ---
+[Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | Pending | --- | --- | ---
+[Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923) | Pending | --- | --- | ---
+
+## Theory
+
+| Course | Status | Start Date | Finish Date | Repository
+-------- | ------ | ---------- | ----------- | ----------
+[Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Pending | --- | --- | ---
+[Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | --- | --- | --- | ---
+[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | --- | --- | ---
+[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | --- | --- | ---
+[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | --- | --- | ---
+[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | --- | --- | ---
+
+## Applications
+
+| Course | Status | Start Date | Finish Date | Repository
+-------- | ------ | ---------- | ----------- | ----------
+[Relational Database Systems](https://www.coursera.org/learn/relational-database) | --- | --- | ---
+[Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | --- | --- | --- | ---
+[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | Pending | --- | --- | ---
+[Machine Learning](https://www.coursera.org/learn/machine-learning) | Pending | --- | --- | ---
+[Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | Pending | --- | --- | ---
+[Cryptography I](https://www.coursera.org/course/crypto) | Pending | --- | --- | ---
+
+# Level 3 (Advanced)
+
+## Math
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
@@ -95,27 +144,8 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) | --- | --- | ---
 [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) | --- | --- | ---
 
-## Core Systems
 
-| Course | Status | Start Date | Finish Date | Repository
--------- | ------ | ---------- | ----------- | ----------
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | Pending | --- | --- | ---
-[Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | Pending | --- | --- | ---
-[Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) | Pending | --- | --- | ---
-[Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923) | Pending | --- | --- | ---
-
-## Core Theory
-
-| Course | Status | Start Date | Finish Date | Repository
--------- | ------ | ---------- | ----------- | ----------
-[Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Pending | --- | --- | ---
-[Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | --- | --- | --- | ---
-[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | --- | --- | ---
-[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | --- | --- | ---
-[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | --- | --- | ---
-[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | --- | --- | ---
-
-## Core Security
+## Security
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
@@ -124,19 +154,6 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | --- | --- | ---
 [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | --- | --- | ---
 [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | --- | --- | ---
-
-## Core Applications
-
-| Course | Status | Start Date | Finish Date | Repository
--------- | ------ | ---------- | ----------- | ----------
-[Relational Database Systems](https://www.coursera.org/learn/relational-database) | --- | --- | ---
-[Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | --- | --- | --- | ---
-[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | Pending | --- | --- | ---
-[Machine Learning](https://www.coursera.org/learn/machine-learning) | Pending | --- | --- | ---
-[Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | Pending | --- | --- | ---
-[Cryptography I](https://www.coursera.org/course/crypto) | Pending | --- | --- | ---
-
-# Advvanced Computer Science
 
 ## Advanced programming
 
@@ -175,7 +192,7 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis) | Pending | --- | --- | ---
 [Game Theory](https://www.coursera.org/learn/game-theory-1) | Pending | --- | --- | ---
 
-## Advanced applications & Specializations
+# Level 4 (Specializations)
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
@@ -199,3 +216,4 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 * [Open Source CS - ForrestKnight](https://github.com/ForrestKnight/open-source-cs)
 * [Coursera](https://www.coursera.org/)
 * [edX](https://www.edx.org/)
+* [P1xt](https://github.com/P1xt/p1xt-guides)
