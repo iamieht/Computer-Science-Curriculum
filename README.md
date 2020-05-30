@@ -79,7 +79,7 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
 [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | --- | --- | ---
 
-# Core Math
+## Core Math
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
@@ -107,6 +107,20 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 -------- | ------ | ---------- | ----------- | ----------
 [Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Pending | --- | --- | ---
 [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) | --- | --- | --- | ---
+[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | --- | --- | ---
+[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | --- | --- | ---
+[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | --- | --- | ---
+[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | --- | --- | ---
+
+## Core Security
+
+| Course | Status | Start Date | Finish Date | Repository
+-------- | ------ | ---------- | ----------- | ----------
+[Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data) | --- | --- | ---
+[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | --- | --- | ---
+[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | --- | --- | ---
+[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | --- | --- | ---
+[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | --- | --- | ---
 
 ## Core Applications
 
@@ -129,13 +143,6 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 [Introduction to Parallel Programming](https://classroom.udacity.com/courses/cs344) | Pending | --- | --- | ---
 [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) | Pending | --- | --- | ---
 
-## Advanced math
-
-| Course | Status | Start Date | Finish Date | Repository
--------- | ------ | ---------- | ----------- | ----------
-[Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | Pending | --- | --- | ---
-[Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | Pending | --- | --- | ---
-
 ## Advanced systems
 
 | Course | Status | Start Date | Finish Date | Repository
@@ -153,7 +160,6 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
-[Introduction to Logic](https://www.coursera.org/learn/logic-introduction) | Pending | --- | --- | ---
 [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about) | Pending | --- | --- | ---
 [Computational Geometry](https://www.edx.org/course/computational-geometry-tsinghuax-70240183x) | Pending | --- | --- | ---
 [Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis) | Pending | --- | --- | ---
