@@ -17,7 +17,7 @@ This Computer Science Curriculum is a guide, based on a few [resources](#resourc
 | Course | Status | Start Date | Finish Date | Repository
 -------- | ------ | ---------- | ----------- | ----------
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | Completed | Aug. 28th 2019 | Nov. 1st 2019 |[MITx-6.00.1x](https://github.com/iamieht/MITx-6.00.1x)
-[Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) | In Progress | Feb. 25th 2020 | --- | [Intro to Scripting in Python Specialization](https://github.com/iamieht/intro-scripting-in-python-specialization)
+[Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) | Completed | Feb. 25th 2020 | Jun. 8th 2020 | [Intro to Scripting in Python Specialization](https://github.com/iamieht/intro-scripting-in-python-specialization)
 [Python for Everyone](https://www.coursera.org/specializations/python) | In Progress | 01.06.2020 | --- | [Python for Everyone](https://github.com/iamieht/Python-for-Everyone)
 [Fundamentals of Computing](https://www.coursera.org/specializations/computer-fundamentals) | --- | --- | --- | [Fundamentals of Computing](https://github.com/iamieht/fundamentals_of_computing)
 
